@@ -152,12 +152,16 @@ Accuracy (correctness of information)
 Depth (detail and explanation richness)
 
 ## Analysis & Findings
+
 ✔ Basic prompts consistently improved output quality
 They delivered more structured, informative, and accurate responses.
+
 ✔ Naïve prompts worked only for very simple tasks
 (e.g., short story or general advice)
+
 ✔ Few-shot prompts improved pattern consistency
 The model followed examples to maintain tone and style.
+
 ✔ Chain-of-thought prompts gave the deepest reasoning
 Outputs became more logical and detailed.
 
